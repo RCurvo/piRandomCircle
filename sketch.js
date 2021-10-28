@@ -41,7 +41,6 @@ point(x,y);
 
 const pi = 4*(circle/total);
 let c = color('black');
-stroke (0,0,0)
 
 noFill();
 stroke (0,0,0)
